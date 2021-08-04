@@ -18,7 +18,7 @@ GAMES101 Homework2
 
 •   static bool insideTriangle(): 测试点是否在三角形内。你可以修改此函 数的定义，这意味着，你可以按照自己的方式更新返回类型或函数参数。
 
-•   增加了两个buffer：depth_buf_ss和depth_buf_ss用来super-sampling。
+•   增加了两个buffer: depth_buf_ss和depth_buf_ss用来super-sampling。
 
 •   MSAA(): 执行反走样算法。
 
